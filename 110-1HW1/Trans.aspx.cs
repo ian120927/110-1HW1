@@ -13,7 +13,7 @@ namespace _110_1HW1
         {
             double d_Value;
             d_Value = 3.982;
-            Response.Write("d_Value =" + d_Value + "*" + d_Value + "=" + d_Value * d_Value);
+            Response.Write("d_Value =" + d_Value + "*" + d_Value + "=" + d_Value * d_Value * 0.3025);
         }
     }
 }
